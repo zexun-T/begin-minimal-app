@@ -213,6 +213,10 @@ sl-tab-group{
     height: 720px;
     background-color: #fff;
 }
+#illustration{
+    height: 720px;
+    background-color: #fff;
+}
 sl-checkbox{
     margin: 6px;
 }
