@@ -158,10 +158,6 @@ sl-tab-group{
     left:-2px;
     top: 12px;
 }
-.clear{
-    /* position: absolute; */
-    margin-left: 100px;
-}
 #upload{
     margin-left: 10px;
     /* position: relative; */
