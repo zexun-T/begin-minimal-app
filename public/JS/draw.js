@@ -149,6 +149,9 @@ function btnClick() {
     strokeWidth.addEventListener('slChange', function (e) {
         canvas.freeDrawingBrush.width = e.target.value;
     })
+    $('fSize').addEventListener('slChange', function () {
+        $('fSizeR').value = this.value
+    })
 }
 
 btnClick();
